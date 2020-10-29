@@ -19,7 +19,7 @@
 3.Pillow 
 
 <h2>Download code and run</h2>
-<h3>Predict image you want after changing image name</h3>
+<h3>Predict image 😄 which you want after changing image name </h3>
 
 <h3>I do some prediction of lion images</h3>
 <h4>Let's see </h4>
