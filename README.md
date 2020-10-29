@@ -1,6 +1,5 @@
 # Vgg16 | Inception_V3 | Resnet_50
 <b>Vgg16</b>
-
 <img src = "https://github.com/sagarjangid41/vgg16-inception_v3-resnet_50/blob/main/img/vgg1gimg.png"  />
 <b>Inception_V3</b>
 
@@ -33,4 +32,4 @@ lion image/prediction image ->
 <h3>Thank you guy's 
   maybe you like this 😄 </h3>
   
-<h3>💬 contact me "jangidsagar33@gmail.com" </h3>
+<h3>💬 Contact Me <a>jangidsagar33@gmail.com</a> </h3>
