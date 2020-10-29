@@ -31,4 +31,6 @@ lion image/prediction image ->
 <img src = "https://github.com/sagarjangid41/vgg16-inception_v3-resnet_50/blob/main/img/resnet%20(2).png" / >
 
 <h3>Thank you guy's 
-  maybe you like this </h3>
+  maybe you like this 😄 </h3>
+  
+<h3>💬 contact me "jangidsagar33@gmail.com" </h3>
